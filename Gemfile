@@ -17,6 +17,7 @@ gem 'turbolinks'
 gem 'jbuilder'
 gem 'bootsnap', '>= 1.1.0', require: false
 gem 'bcrypt', '3.1.11'
+gem 'bootstrap-sass', '~> 3.2.0'
 
 group :development, :test do
   gem 'sqlite3'
